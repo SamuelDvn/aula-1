@@ -1,0 +1,12 @@
+{
+    "name": "aluno/aula-1",
+    "description": "Projeto para fins academicos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Samuel Dvn",
+            "email": "samueldvn@gmail.com"
+        }
+    ],
+    "require": {}
+}
